@@ -1,3 +1,4 @@
+
     a
     able
     about
@@ -522,3 +523,14 @@
     yourselves
     z
     zero
+the
+is
+at
+which
+on
+and
+a
+an
+for
+
+ (Added Porter.java and stopwordlist.txt)
