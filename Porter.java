@@ -412,16 +412,5 @@ public class Porter {
 	System.out.println(stem);
     }
 
-} //class
-
-
-public class Porter {
-    public String stripAffixes(String str) {
-        if (str.length() <= 2) {
-            return str;
-        }
-        return str.toLowerCase();
-    }
 }
-
- (Added Porter.java and stopwordlist.txt)
+ 
